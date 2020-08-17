@@ -1,2 +1,9 @@
-# Bridge-of-History
-Virtual museum where the user would interact with different images and 3D assets and to learn about our history of discrimination and to experience the beauty across the world
+# A-Frame Project
+
+**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
+
+Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
+
+Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
+
+Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
